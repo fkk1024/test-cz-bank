@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["404"],{"8cdb":function(e,n,t){"use strict";t.r(n);var c={name:"page404",computed:{message:function(){return"网管说这个页面你不能进......"}}};t=t("2877"),c=Object(t.a)(c,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{staticClass:"404"},[e._v(" 这个页面找不到哦 ")])}),[],!1,null,"7e5c0415",null);n.default=c.exports}}]);
